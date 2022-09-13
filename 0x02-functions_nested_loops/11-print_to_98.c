@@ -21,8 +21,3 @@ void print_to_98(int n)
 			printf("%d, ", count);
 	printf("98\n");
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
